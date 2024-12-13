@@ -704,33 +704,6 @@
                                     children: "Dexscreener Mantle",
                                   }),
                                 }),
-                                (0, a.jsx)("li", {
-                                  className: "mb-1",
-                                  children: (0, a.jsx)(c(), {
-                                    href: "https://www.geckoterminal.com/tlos/swapsicle-v2-telos/pools",
-                                    className:
-                                      "text-gray-400 transition duration-150 ease-in-out hover:text-gray-100",
-                                    children: "GeckoTerminal Telos",
-                                  }),
-                                }),
-                                (0, a.jsx)("li", {
-                                  className: "mb-1",
-                                  children: (0, a.jsx)(c(), {
-                                    href: "https://www.geckoterminal.com/mantle/swapsicle-v2-mantle/pools",
-                                    className:
-                                      "text-gray-400 transition duration-150 ease-in-out hover:text-gray-100",
-                                    children: "GeckoTerminal Mantle",
-                                  }),
-                                }),
-                                (0, a.jsx)("li", {
-                                  className: "mb-1",
-                                  children: (0, a.jsx)(c(), {
-                                    href: "https://defillama.com/protocol/swapsicle",
-                                    className:
-                                      "text-gray-400 transition duration-150 ease-in-out hover:text-gray-100",
-                                    children: "DefiLlama",
-                                  }),
-                                }),
                               ],
                             }),
                           ],
@@ -747,28 +720,10 @@
                                 (0, a.jsx)("li", {
                                   className: "mb-1",
                                   children: (0, a.jsx)(c(), {
-                                    href: "mailto:admin@swapsicle.io",
-                                    className:
-                                      "text-gray-400 transition duration-150 ease-in-out hover:text-gray-100",
-                                    children: "Email",
-                                  }),
-                                }),
-                                (0, a.jsx)("li", {
-                                  className: "mb-1",
-                                  children: (0, a.jsx)(c(), {
                                     href: "https://twitter.com/SwapsicleDEX",
                                     className:
                                       "text-gray-400 transition duration-150 ease-in-out hover:text-gray-100",
                                     children: "Twitter",
-                                  }),
-                                }),
-                                (0, a.jsx)("li", {
-                                  className: "mb-1",
-                                  children: (0, a.jsx)(c(), {
-                                    href: "https://discord.com/invite/6UxVtUS4F8",
-                                    className:
-                                      "text-gray-400 transition duration-150 ease-in-out hover:text-gray-100",
-                                    children: "Discord",
                                   }),
                                 }),
                                 (0, a.jsx)("li", {
@@ -796,7 +751,7 @@
                                 (0, a.jsx)("li", {
                                   className: "mb-1",
                                   children: (0, a.jsx)(c(), {
-                                    href: "https://app.swapsicle.io/Privacy.pdf",
+                                    href: "https://app-swapsicle.vercel.app/Privacy.pdf",
                                     className:
                                       "text-gray-400 transition duration-150 ease-in-out hover:text-gray-100",
                                     children: "Privacy Policy",
@@ -805,7 +760,7 @@
                                 (0, a.jsx)("li", {
                                   className: "mb-1",
                                   children: (0, a.jsx)(c(), {
-                                    href: "https://app.swapsicle.io/TermsOfUse.pdf",
+                                    href: "https://app-swapsicle.vercel.app/TermsOfUse.pdf",
                                     className:
                                       "text-gray-400 transition duration-150 ease-in-out hover:text-gray-100",
                                     children: "Terms of Service",
@@ -814,7 +769,7 @@
                                 (0, a.jsx)("li", {
                                   className: "mb-1",
                                   children: (0, a.jsx)(c(), {
-                                    href: "https://app.swapsicle.io/Terms&Conditionsv3.pdf",
+                                    href: "https://app-swapsicle.vercel.app/Terms&Conditionsv3.pdf",
                                     className:
                                       "text-gray-400 transition duration-150 ease-in-out hover:text-gray-100",
                                     children: "Terms and Conditions",
@@ -853,40 +808,6 @@
                         (0, a.jsx)("li", {
                           className: "ml-4",
                           children: (0, a.jsx)(c(), {
-                            href: "https://github.com/swapsicledex",
-                            className:
-                              "flex items-center justify-center text-white transition duration-150 ease-in-out bg-gray-800 rounded-full hover:text-gray-100 hover:bg-purple-600",
-                            "aria-label": "Github",
-                            children: (0, a.jsx)("svg", {
-                              className: "w-8 h-8 fill-current",
-                              viewBox: "0 0 32 32",
-                              xmlns: "http://www.w3.org/2000/svg",
-                              children: (0, a.jsx)("path", {
-                                d: "M16 8.2c-4.4 0-8 3.6-8 8 0 3.5 2.3 6.5 5.5 7.6.4.1.5-.2.5-.4V22c-2.2.5-2.7-1-2.7-1-.4-.9-.9-1.2-.9-1.2-.7-.5.1-.5.1-.5.8.1 1.2.8 1.2.8.7 1.3 1.9.9 2.3.7.1-.5.3-.9.5-1.1-1.8-.2-3.6-.9-3.6-4 0-.9.3-1.6.8-2.1-.1-.2-.4-1 .1-2.1 0 0 .7-.2 2.2.8.6-.2 1.3-.3 2-.3s1.4.1 2 .3c1.5-1 2.2-.8 2.2-.8.4 1.1.2 1.9.1 2.1.5.6.8 1.3.8 2.1 0 3.1-1.9 3.7-3.7 3.9.3.4.6.9.6 1.6v2.2c0 .2.1.5.6.4 3.2-1.1 5.5-4.1 5.5-7.6-.1-4.4-3.7-8-8.1-8z",
-                              }),
-                            }),
-                          }),
-                        }),
-                        (0, a.jsx)("li", {
-                          className: "ml-4",
-                          children: (0, a.jsx)(c(), {
-                            href: "https://discord.gg/swapsicle",
-                            className:
-                              "flex items-center justify-center text-white transition duration-150 ease-in-out bg-gray-800 rounded-full hover:text-gray-100 hover:bg-purple-600",
-                            "aria-label": "Discord",
-                            children: (0, a.jsx)("svg", {
-                              xmlns: "http://www.w3.org/2000/svg",
-                              className: "w-8 h-8 p-1.5 fill-current",
-                              viewBox: "0 0 640 512",
-                              children: (0, a.jsx)("path", {
-                                d: "M524.531,69.836a1.5,1.5,0,0,0-.764-.7A485.065,485.065,0,0,0,404.081,32.03a1.816,1.816,0,0,0-1.923.91,337.461,337.461,0,0,0-14.9,30.6,447.848,447.848,0,0,0-134.426,0,309.541,309.541,0,0,0-15.135-30.6,1.89,1.89,0,0,0-1.924-.91A483.689,483.689,0,0,0,116.085,69.137a1.712,1.712,0,0,0-.788.676C39.068,183.651,18.186,294.69,28.43,404.354a2.016,2.016,0,0,0,.765,1.375A487.666,487.666,0,0,0,176.02,479.918a1.9,1.9,0,0,0,2.063-.676A348.2,348.2,0,0,0,208.12,430.4a1.86,1.86,0,0,0-1.019-2.588,321.173,321.173,0,0,1-45.868-21.853,1.885,1.885,0,0,1-.185-3.126c3.082-2.309,6.166-4.711,9.109-7.137a1.819,1.819,0,0,1,1.9-.256c96.229,43.917,200.41,43.917,295.5,0a1.812,1.812,0,0,1,1.924.233c2.944,2.426,6.027,4.851,9.132,7.16a1.884,1.884,0,0,1-.162,3.126,301.407,301.407,0,0,1-45.89,21.83,1.875,1.875,0,0,0-1,2.611,391.055,391.055,0,0,0,30.014,48.815,1.864,1.864,0,0,0,2.063.7A486.048,486.048,0,0,0,610.7,405.729a1.882,1.882,0,0,0,.765-1.352C623.729,277.594,590.933,167.465,524.531,69.836ZM222.491,337.58c-28.972,0-52.844-26.587-52.844-59.239S193.056,219.1,222.491,219.1c29.665,0,53.306,26.82,52.843,59.239C275.334,310.993,251.924,337.58,222.491,337.58Zm195.38,0c-28.971,0-52.843-26.587-52.843-59.239S388.437,219.1,417.871,219.1c29.667,0,53.307,26.82,52.844,59.239C470.715,310.993,447.538,337.58,417.871,337.58Z",
-                              }),
-                            }),
-                          }),
-                        }),
-                        (0, a.jsx)("li", {
-                          className: "ml-4",
-                          children: (0, a.jsx)(c(), {
                             href: "https://t.me/SwapsicleDAO",
                             className:
                               "flex items-center justify-center text-white transition duration-150 ease-in-out bg-gray-800 rounded-full hover:text-gray-100 hover:bg-purple-600",
@@ -904,16 +825,16 @@
                         (0, a.jsx)("li", {
                           className: "ml-4",
                           children: (0, a.jsx)(c(), {
-                            href: "https://medium.com/@swapsicle",
+                            href: "https://swapsicle.gitbook.io/swapsicle/",
                             className:
                               "flex items-center justify-center text-white transition duration-150 ease-in-out bg-gray-800 rounded-full hover:text-gray-100 hover:bg-purple-600",
                             "aria-label": "Medium",
                             children: (0, a.jsx)("svg", {
                               xmlns: "http://www.w3.org/2000/svg",
                               className: "w-8 h-8 p-1.5 fill-current",
-                              viewBox: "0 0 640 512",
+                              viewBox: "0 0 24 24",
                               children: (0, a.jsx)("path", {
-                                d: "M180.5,74.262C80.813,74.262,0,155.633,0,256S80.819,437.738,180.5,437.738,361,356.373,361,256,280.191,74.262,180.5,74.262Zm288.25,10.646c-49.845,0-90.245,76.619-90.245,171.095s40.406,171.1,90.251,171.1,90.251-76.619,90.251-171.1H559C559,161.5,518.6,84.908,468.752,84.908Zm139.506,17.821c-17.526,0-31.735,68.628-31.735,153.274s14.2,153.274,31.735,153.274S640,340.631,640,256C640,171.351,625.785,102.729,608.258,102.729Z",
+                                d: "M10.802 17.77a.703.703 0 1 1-.002 1.406.703.703 0 0 1 .002-1.406m11.024-4.347a.703.703 0 1 1 .001-1.406.703.703 0 0 1-.001 1.406m0-2.876a2.176 2.176 0 0 0-2.174 2.174c0 .233.039.465.115.691l-7.181 3.823a2.165 2.165 0 0 0-1.784-.937c-.829 0-1.584.475-1.95 1.216l-6.451-3.402c-.682-.358-1.192-1.48-1.138-2.502.028-.533.212-.947.493-1.107.178-.1.392-.092.62.027l.042.023c1.71.9 7.304 3.847 7.54 3.956.363.169.565.237 1.185-.057l11.564-6.014c.17-.064.368-.227.368-.474 0-.342-.354-.477-.355-.477-.658-.315-1.669-.788-2.655-1.25-2.108-.987-4.497-2.105-5.546-2.655-.906-.474-1.635-.074-1.765.006l-.252.125C7.78 6.048 1.46 9.178 1.1 9.397.457 9.789.058 10.57.006 11.539c-.08 1.537.703 3.14 1.824 3.727l6.822 3.518a2.175 2.175 0 0 0 2.15 1.862 2.177 2.177 0 0 0 2.173-2.14l7.514-4.073c.38.298.853.461 1.337.461A2.176 2.176 0 0 0 24 12.72a2.176 2.176 0 0 0-2.174-2.174",
                               }),
                             }),
                           }),
