@@ -142,7 +142,7 @@
                     }),
                     (0, i.jsx)("li", {
                       children: (0, i.jsx)(a(), {
-                        href: "https://zombieclub.swapsicle.io/",
+                        href: "https://icecreamzombie-ashy.vercel.app/",
                         className:
                           "flex items-center px-4 py-3 font-medium text-white transition duration-150 ease-in-out hover:text-gray-200",
                         children: "NFTs",
